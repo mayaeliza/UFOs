@@ -7,6 +7,13 @@ Create website using JavaScript to analyze UFO sighting data. To provide a more 
   - JavaScript, CSS, HTML, VS Code Editor
   
 ## Results:
+- The inclusion of additional search criteria allows for users to easily and effeciently search through a large data set.
+Users can search by date, city, state, country, and type to filter for potential UFO sightings in an area or time that is relevant to them. 
+
+<img width="1272" alt="ufotable" src="https://user-images.githubusercontent.com/72039212/114809615-1d652d00-9d70-11eb-9687-ed9134f0b078.png">
+
+- More importantly the filter search allows the user to filter by more than one criteria at a time.
+
 
 
 
