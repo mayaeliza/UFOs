@@ -1,11 +1,13 @@
 # UFOs
 ## Overview:
 Create website using JavaScript to analyze UFO sighting data. To provide a more in-depth analysis of UFO sightings, we will alter code to allow users to filter for multiple criteria at the same time. 
+<img width="1270" alt="ufoheader" src="https://user-images.githubusercontent.com/72039212/114809498-e8f17100-9d6f-11eb-80fa-b3283e8284a3.png">
 
 ## Resources:
-  - JavaScript, CSS, VS Code Editor
+  - JavaScript, CSS, HTML, VS Code Editor
   
 ## Results:
+
 
 
 
