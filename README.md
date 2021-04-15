@@ -12,9 +12,9 @@ Users can search by date, city, state, country, and type to filter for potential
 
 <img width="1272" alt="ufotable" src="https://user-images.githubusercontent.com/72039212/114809615-1d652d00-9d70-11eb-9687-ed9134f0b078.png">
 
-- More importantly the filter search allows the user to filter by more than one criteria at a time.
+- Also, the filter search allows the user to filter by more than one criteria at a time.
 
-
+<img width="1269" alt="ufofiltersearch" src="https://user-images.githubusercontent.com/72039212/114809957-ba27ca80-9d70-11eb-9e01-fa82f04e4a08.png">
 
 
 
